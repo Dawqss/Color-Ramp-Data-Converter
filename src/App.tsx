@@ -48,7 +48,7 @@ function App() {
                         }}>Put here array of stops & colors</FormLabel>
                         <TextareaAutosize
                             minRows={10}
-                            value={initValue}
+                            value={inputStateTemp}
                             style={{
                                 width: '100%',
                                 margin: '20px 0'

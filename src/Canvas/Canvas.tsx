@@ -27,7 +27,7 @@ function CanvasElement({inputColors, onCanvasDataChange}: IProps) {
             onCanvasDataChange(data);
             getColorRamp(colors, width * 2, height * 40, visualisationCanvas);
         } catch (e) {
-            alert('Bad JS Code ' + e);
+            alert(e);
         }
 
 
