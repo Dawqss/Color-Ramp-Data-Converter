@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Color-Ramp-Data-Converter/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Color-Ramp-Data-Converter/static/js/main.ca09aaad.chunk.js",
-    "main.js.map": "/Color-Ramp-Data-Converter/static/js/main.ca09aaad.chunk.js.map",
+    "main.js": "/Color-Ramp-Data-Converter/static/js/main.10286d53.chunk.js",
+    "main.js.map": "/Color-Ramp-Data-Converter/static/js/main.10286d53.chunk.js.map",
     "runtime-main.js": "/Color-Ramp-Data-Converter/static/js/runtime-main.b32db676.js",
     "runtime-main.js.map": "/Color-Ramp-Data-Converter/static/js/runtime-main.b32db676.js.map",
     "static/js/2.388b53b9.chunk.js": "/Color-Ramp-Data-Converter/static/js/2.388b53b9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b32db676.js",
     "static/js/2.388b53b9.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.ca09aaad.chunk.js"
+    "static/js/main.10286d53.chunk.js"
   ]
 }
